@@ -1,2 +1,2 @@
 # Admin Dashboard
-MERN adnmin dashboard
+MERN admin dashboard
